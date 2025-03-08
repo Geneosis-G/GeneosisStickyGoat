@@ -1,0 +1,38 @@
+Let's stick the world together!
+
+Why won't they understand? I'm not gathering a heap of garbage! I prepare myself... And when I will be done... Nobody will be able to stop me! Muahahaha! *evil laugh* 
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Sticky Goat: Everything you touch become sticky.
+
+[b]COMMANDS[/b]
+- [b][1] + [R]:[/b] Enable/Disable sticky powers.
+- [b]???:[/b] Enable/Disable Planet mode.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][LB] + [Y]:[/b] Enable/Disable sticky powers.
+- [b]???:[/b] Enable/Disable Planet mode.
+
+[b]CHARACTERISTICS[/b]
+- Sticked objects will not collide with you as long as you are not ragdoll.
+- Sticky objects can stick to exactly 2 other things.
+- Sticked objects are sort of attached with rubber bands, so long chains of sticked objects can take time to follow you.
+- In Planet mode, you become the center of a planet with it's own gravity field, attracting everything around.
+
+[b]EASTER EGGS[/b]
+- [spoiler]The Planet mode is also known as Katamari Damacy mode ;)[/spoiler]
+- [spoiler]Hint to activate the Planet mode:[/spoiler][spoiler]You need to be ragdoll and to press a key related to attraction for a few seconds.[/spoiler]
+- [spoiler]In Planet mode, having living creatures around you can produce surprising effects.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- A lot of sticky objects generate a lot of lag, disable your sticky powers to fix it.
+- In Planet mode, the gravity center can sometimes pass through walls or through the ground.
+- Gathering too many objects in Planet mode can generate lag, activate slowmotion to reduce it.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]This mod was originally suggested as a Katamari Damacy mod, so the idea was to be able to stick to random objects in order to become a giant boulder. Anyway, making it this way would have result in "destroying" everything that stick to you in order to turn them into dummy objects that will follow exactly all your movements... So I tried to find another way to have a sticky effect for the goat without having to destroy everything ^^
+The base of the idea I had was to make objects attracted by each others instead of really sticked. So I created some special invisible item that take two objects and make them grab each other (like the things you grab with your tongue). This way objects are kind of sticky, but they still behave normally, collide with world and other objects, etc... Anyway I had to remove the collision with the goat body because without that it was impossible to move with allthe objets sticked to you blocking your path >_<
+When this part was done and working as good as I wanted, I started to think about a way to include an attraction power, but contrary to the Demon Goat ability, this attraction had to be fully controllable. I tried many potential solutions before finding the one following all the conditions I wanted for it: It is based on a giant attraction field floating in the air. This attraction field obviously attract the goat to its center but I also added one of those rubber band items to make sure that the goat will remain at the center. And then I made my own movement key detection to move this field around in the game freely :)
+[/quote]
